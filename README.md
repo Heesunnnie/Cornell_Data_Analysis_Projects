@@ -1,2 +1,2 @@
-# data-analysis-projects
+# Data-Analysis-Projects
 Data Analysis Projects 
